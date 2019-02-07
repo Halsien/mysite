@@ -30,3 +30,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # A Jekyll plugin to cache the rendering of Liquid includes
 gem 'jekyll-include-cache'
+
+#minimal mistakes theme
+gem "minimal-mistakes-jekyll"
